@@ -1,0 +1,28 @@
+/* GENERAL STYLES */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color:black;
+  background-image: url();
+}
+
+.title {
+    color: darkgreen;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.text {
+    text-align: center;
+    padding-top: 20px;
+    
+}
